@@ -1,0 +1,65 @@
+{
+    "validated": false,
+    "name": "Emily Davis",
+    "position": "Shelter Outreach Coordinator",
+    "phoneNumber": "+15070000000",
+    "address": "654 Furry Friends Blvd, E4E 2P1, Fredericton, NB, Canada",
+    "professionalExperiences": [
+        {
+            "date": {
+                "start": "2021-01-01",
+                "end": "2023-08-01"
+            },
+            "title": "Community Outreach Coordinator",
+            "tasks": [
+                "Developed and managed outreach programs to engage the community in animal welfare.",
+                "Organized educational workshops and events on responsible pet ownership.",
+                "Partnered with local businesses and schools for fundraising and awareness campaigns.",
+                "Managed social media accounts and created content to promote shelter activities."
+            ],
+            "tools": [
+                "Hootsuite",
+                "Canva",
+                "Microsoft Office",
+                "Google Analytics"
+            ]
+        },
+        {
+            "date": {
+                "start": "2018-04-01",
+                "end": "2020-12-31"
+            },
+            "title": "Shelter Event Coordinator",
+            "tasks": [
+                "Planned and executed events to raise awareness and funds for the shelter.",
+                "Collaborated with vendors and sponsors to secure event resources.",
+                "Coordinated logistics, including venue, catering, and entertainment.",
+                "Promoted events through traditional and digital marketing channels."
+            ],
+            "tools": [
+                "Eventbrite",
+                "Adobe InDesign",
+                "Microsoft Excel",
+                "Google Calendar"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "date": {
+                "start": "2014-09-01",
+                "end": "2018-06-15"
+            },
+            "title": "Bachelor of Arts in Communications",
+            "diploma": "BA in Communications"
+        },
+        {
+            "date": {
+                "start": "2012-09-01",
+                "end": "2014-06-15"
+            },
+            "title": "Diploma in Marketing",
+            "diploma": "Diploma in Marketing"
+        }
+    ]
+}

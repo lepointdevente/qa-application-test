@@ -1,0 +1,65 @@
+{
+    "validated": false,
+    "name": "Sarah Johnson",
+    "position": "Adoption Specialist",
+    "phoneNumber": "+17030000000",
+    "address": "789 Paw Path, M5A 1A1, Ottawa, ON, Canada",
+    "professionalExperiences": [
+        {
+            "date": {
+                "start": "2019-11-01",
+                "end": "2023-08-01"
+            },
+            "title": "Adoption Counselor",
+            "tasks": [
+                "Facilitated the adoption process by matching potential adopters with suitable animals.",
+                "Provided detailed information about animal behavior and care to adopters.",
+                "Conducted home visits to ensure proper living conditions for adopted animals.",
+                "Organized adoption events and promoted them through social media and local channels."
+            ],
+            "tools": [
+                "Adopt-a-Pet",
+                "Microsoft Excel",
+                "Canva",
+                "Hootsuite"
+            ]
+        },
+        {
+            "date": {
+                "start": "2016-09-01",
+                "end": "2019-10-31"
+            },
+            "title": "Animal Shelter Volunteer Coordinator",
+            "tasks": [
+                "Recruited, trained, and managed volunteers for various shelter activities.",
+                "Scheduled and coordinated volunteer shifts and tasks.",
+                "Organized volunteer appreciation events.",
+                "Developed training materials and conducted orientations."
+            ],
+            "tools": [
+                "VolunteerHub",
+                "Microsoft Word",
+                "Google Sheets",
+                "Zoom"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "date": {
+                "start": "2013-09-01",
+                "end": "2017-06-15"
+            },
+            "title": "Bachelor of Arts in Social Work",
+            "diploma": "BA in Social Work"
+        },
+        {
+            "date": {
+                "start": "2011-09-01",
+                "end": "2013-06-15"
+            },
+            "title": "Diploma in Animal Behavior",
+            "diploma": "Diploma in Animal Behavior"
+        }
+    ]
+}

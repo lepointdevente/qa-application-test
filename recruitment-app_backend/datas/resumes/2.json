@@ -1,0 +1,65 @@
+{
+    "validated": false,
+    "name": "Michael Brown",
+    "position": "Shelter Operations Manager",
+    "phoneNumber": "+16080000000",
+    "address": "456 Rescue Road, V5K 3J8, Vancouver, BC, Canada",
+    "professionalExperiences": [
+        {
+            "date": {
+                "start": "2020-03-01",
+                "end": "2023-07-31"
+            },
+            "title": "Shelter Manager",
+            "tasks": [
+                "Oversaw daily operations of the animal shelter, including staff management and budgeting.",
+                "Developed and implemented policies for animal care and shelter safety.",
+                "Coordinated with local authorities and rescue organizations for animal intake and adoption.",
+                "Managed volunteer programs and community outreach initiatives."
+            ],
+            "tools": [
+                "ShelterBuddy",
+                "QuickBooks",
+                "Asana",
+                "Slack"
+            ]
+        },
+        {
+            "date": {
+                "start": "2017-01-01",
+                "end": "2020-02-28"
+            },
+            "title": "Animal Welfare Officer",
+            "tasks": [
+                "Investigated reports of animal cruelty and neglect.",
+                "Enforced local animal welfare laws and regulations.",
+                "Provided education and resources to pet owners to promote responsible ownership.",
+                "Collaborated with law enforcement for animal rescue operations."
+            ],
+            "tools": [
+                "Microsoft Word",
+                "Google Docs",
+                "ArcGIS",
+                "Tableau"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "date": {
+                "start": "2012-09-01",
+                "end": "2016-06-15"
+            },
+            "title": "Bachelor of Science in Zoology",
+            "diploma": "BSc in Zoology"
+        },
+        {
+            "date": {
+                "start": "2010-09-01",
+                "end": "2012-06-15"
+            },
+            "title": "Diploma in Animal Welfare",
+            "diploma": "Diploma in Animal Welfare"
+        }
+    ]
+}

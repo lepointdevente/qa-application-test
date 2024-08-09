@@ -1,0 +1,65 @@
+{
+    "validated": false,
+    "name": "David Lee",
+    "position": "Veterinary Technician",
+    "phoneNumber": "+18050000000",
+    "address": "321 Pet Care Ave, B2T 4G7, Halifax, NS, Canada",
+    "professionalExperiences": [
+        {
+            "date": {
+                "start": "2020-08-01",
+                "end": "2023-07-01"
+            },
+            "title": "Veterinary Technician",
+            "tasks": [
+                "Assisted veterinarians in surgical procedures and emergency care.",
+                "Administered medications, vaccinations, and treatments as prescribed.",
+                "Collected samples for laboratory testing and performed basic lab procedures.",
+                "Educated pet owners on health maintenance and disease prevention."
+            ],
+            "tools": [
+                "VetScan",
+                "Avimark",
+                "Microsoft Excel",
+                "Google Drive"
+            ]
+        },
+        {
+            "date": {
+                "start": "2017-05-01",
+                "end": "2020-07-31"
+            },
+            "title": "Animal Care Assistant",
+            "tasks": [
+                "Provided daily care, feeding, and monitoring of shelter animals.",
+                "Maintained detailed records of animal health and behaviors.",
+                "Assisted with intake and assessment of new animals.",
+                "Supported adoption processes by preparing animals and completing paperwork."
+            ],
+            "tools": [
+                "PetPoint",
+                "Microsoft Word",
+                "Google Sheets",
+                "Shelterluv"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "date": {
+                "start": "2013-09-01",
+                "end": "2017-06-15"
+            },
+            "title": "Bachelor of Science in Veterinary Technology",
+            "diploma": "BSc in Veterinary Technology"
+        },
+        {
+            "date": {
+                "start": "2011-09-01",
+                "end": "2013-06-15"
+            },
+            "title": "Diploma in Animal Health",
+            "diploma": "Diploma in Animal Health"
+        }
+    ]
+}

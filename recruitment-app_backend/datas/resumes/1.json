@@ -1,0 +1,65 @@
+{
+  "validated": false,
+  "name": "Jane Smith",
+  "position": "Animal Care Coordinator",
+  "phoneNumber": "+14160000000",
+  "address": "123 Shelter Lane, A1B 2C3, Toronto, ON, Canada",
+  "professionalExperiences": [
+    {
+      "date": {
+        "start": "2021-05-01",
+        "end": "2023-06-30"
+      },
+      "title": "Animal Care Technician",
+      "tasks": [
+        "Provided daily care for a variety of animals including feeding, grooming, and exercise.",
+        "Assisted in administering medications and monitoring animal health.",
+        "Organized adoption events and facilitated animal adoptions.",
+        "Maintained cleanliness and hygiene of the animal shelter."
+      ],
+      "tools": [
+        "PetPoint",
+        "Shelterluv",
+        "Microsoft Excel",
+        "Google Sheets"
+      ]
+    },
+    {
+      "date": {
+        "start": "2018-08-15",
+        "end": "2021-04-30"
+      },
+      "title": "Veterinary Assistant",
+      "tasks": [
+        "Supported veterinarians during exams and surgeries.",
+        "Prepared animals for procedures and assisted in post-operative care.",
+        "Maintained accurate medical records.",
+        "Educated pet owners on aftercare and general animal welfare."
+      ],
+      "tools": [
+        "Avimark",
+        "VetWare",
+        "Microsoft Word",
+        "Adobe Acrobat"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "date": {
+        "start": "2014-09-01",
+        "end": "2018-06-15"
+      },
+      "title": "Bachelor of Science in Animal Science",
+      "diploma": "BSc in Animal Science"
+    },
+    {
+      "date": {
+        "start": "2012-09-01",
+        "end": "2014-06-15"
+      },
+      "title": "Diploma in Veterinary Technology",
+      "diploma": "Diploma in Veterinary Technology"
+    }
+  ]
+}
