@@ -12,7 +12,7 @@ function ResumeListPage() {
 
     return (
         <div>
-            <h1>Resume List</h1>
+            <h1>Resume Liste</h1>
             <ul>
                 {resumes.map((resumeId) => (
                     <li key={resumeId}>
