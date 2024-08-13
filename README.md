@@ -43,7 +43,6 @@ Quand je clique sur le lien "View All Resumes",
 Alors je suis redirigé vers une page avec les liens vers les différents CV disponibles.
 ```
 
-### 2. Affiche un CV
 ### User Story: En tant que recruteur, je souhaite consulter un CV spécifique pour évaluer les qualifications d'un candidat.
 
 **Scénario: Affichage d'un CV spécifique**
@@ -53,7 +52,6 @@ Quand je clique sur le lien "1",
 Alors je suis redirigé vers une page qui affiche le CV avec l'identifiant 1.
 ```
 
-### 3. Marque un CV comme validé
 ### User Story: En tant que recruteur, je souhaite marquer un CV comme validé pour identifier les candidats qualifiés.
 
 **Scénario: Validation d'un CV**
