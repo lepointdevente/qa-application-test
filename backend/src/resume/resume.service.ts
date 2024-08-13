@@ -9,7 +9,7 @@ export class ResumeService {
   getResumeFileName(id: number): string {
     return path.join(this.resumesDirectory, `${id}.json`);
   }
-
+  
   listResumes(): string[] {
     return fs.readdirSync(this.resumesDirectory).map(file => path.basename(file, '.json'));
   }
